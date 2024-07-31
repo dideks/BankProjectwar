@@ -1,6 +1,6 @@
 package com.example.bankprojectbackend.Entity;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 @Entity
 @Table(name="STAJBANKNEW")
